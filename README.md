@@ -102,7 +102,8 @@ The main goal is to assist farmers and veterinarians in identifying cattle disea
 - Tables:
   - `DecisionTree`
   - `RandomForest`
-  - `NaiveBayes`
+  - `NaiveBaye
+  - 'KNN'
 
 Each table contains:
 - User Name
@@ -113,7 +114,8 @@ Each table contains:
 
 
 
-Usage
+## **Usage**
+
 Launch the GUI.
 Enter your name and up to 5 symptoms.
 Choose a machine learning model to run:
